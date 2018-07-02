@@ -6,4 +6,6 @@ public class t3 {
         System.out.println("helloworld");
         System.out.println("uuuuuu");
     }
+    public void b(){
+    }
 }
