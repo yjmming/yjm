@@ -6,4 +6,8 @@ public class T1 {
         System.out.println("hwlll");
     }
 
+    public void m1(){
+        System.out.println("yjm");
+    }
+
 }
