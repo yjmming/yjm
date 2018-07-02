@@ -9,5 +9,6 @@ public class T1 {
     public void m1(){
         System.out.println("yjm");
     }
+    public void m2(){}
 
 }
