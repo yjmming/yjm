@@ -9,4 +9,6 @@ public class t3 {
     public void m1(){
 
     }
+    public void b(){
+    }
 }
